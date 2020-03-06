@@ -3,7 +3,7 @@
 
 > *齐芒行，川锋明！*
 ----
-![](https://cdn.luogu.com.cn/upload/image_hosting/zx1q0ua3.png)
+![](https://note.youdao.com/yws/api/personal/file/WEB577104b0a7627fd3a9388b3e53ef1da2?method=getImage&version=19&cstk=SWuehst3)
 
 ###  此博客主要用来记录我的算法学习（权当笔记）
                             ```如有不足，敬请大佬指正```
