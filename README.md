@@ -1,7 +1,7 @@
 # 欢迎来到齐芒的博客
 > **一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ **
 
->>齐芒行，川锋明！
+>齐芒行，川锋明！
 ----
 ![](https://cdn.luogu.com.cn/upload/image_hosting/a5tc02q3.png)
 ![](https://cdn.luogu.com.cn/upload/image_hosting/zx1q0ua3.png)
