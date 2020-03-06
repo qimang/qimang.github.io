@@ -4,12 +4,8 @@
 ##专属座右铭
 > *齐芒行，川锋明！*
 ----
-
-
-
 ![](https://cdn.luogu.com.cn/upload/image_hosting/a5tc02q3.png)
 ![](https://cdn.luogu.com.cn/upload/image_hosting/zx1q0ua3.png)
-![yesOrNo](https://img-blog.csdn.net/20160722143450018)
 
 ###  此博客主要用来记录我的算法学习（权当笔记）
                             ```如有不足，敬请大佬指正```
