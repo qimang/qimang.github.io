@@ -2,8 +2,8 @@
 >  **一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景 .**
 
 > *齐芒行，川锋明！*
-----
-![](https://note.youdao.com/yws/api/personal/file/WEB577104b0a7627fd3a9388b3e53ef1da2?method=getImage&version=19&cstk=SWuehst3)
+***
+![](https://cdn.luogu.com.cn/upload/image_hosting/zx1q0ua3.png)
 
 ###  此博客主要用来记录我的算法学习（权当笔记）
                             ```如有不足，敬请大佬指正```
@@ -26,3 +26,5 @@
 给定两个下标l，r进行查询，我的k是从0开始的，所以相等时也要再+1，查找从i开始长度为2^k和从r-2^k+1长度为2^k；只不过可以直接求取（ k = (int)( log((double)(r-l+1)) / log(2.0) );）
 我的理解若有错误  洛谷私信我
 ```
+2.[线段树]([https://paste.ubuntu.com/p/4df56QhKMg/](https://paste.ubuntu.com/p/4df56QhKMg/)
+)
