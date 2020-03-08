@@ -26,5 +26,5 @@
 给定两个下标l，r进行查询，我的k是从0开始的，所以相等时也要再+1，查找从i开始长度为2^k和从r-2^k+1长度为2^k；只不过可以直接求取（ k = (int)( log((double)(r-l+1)) / log(2.0) );）
 我的理解若有错误  洛谷私信我
 ```
-2. [线段树] （https://paste.ubuntu.com/p/4df56QhKMg/）
+2. [线段树](https://paste.ubuntu.com/p/4df56QhKMg/)
 3. [3月8号](https://paste.ubuntu.com/p/tGyThH7D5q/)
