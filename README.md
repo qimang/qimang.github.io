@@ -3,7 +3,8 @@
 
 > *齐芒行，川锋明！*
 ***
-![](https://upload-images.jianshu.io/upload_images/21992567-931d9a42101eaa27.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/21992567-34302f36db091b8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ###  此博客主要用来记录我的算法学习（权当笔记）
                             ```如有不足，敬请大佬指正```
