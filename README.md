@@ -20,7 +20,8 @@
 ```
 由此图可知   找寻极值之时只要查找左右两个区间就行了（有点二分的意味） 所以输入的原始值就是M[i][0]    而每一次找寻的过程中就是M[i][j]=极值(M[i][j-1],M[i+2^(j-1)][j-1])   只要从2^j开始例举，但是注意因为i是从1开始，而最少j=1，所以i的值小于等与n-1，并非n。
 ```
- ![](https://upload-images.jianshu.io/upload_images/21992567-339df5b3619f1c07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![image.png](https://upload-images.jianshu.io/upload_images/21992567-ec0b393cfc711a76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 拿迅哥原图说话
 ```
 给定两个下标l，r进行查询，我的k是从0开始的，所以相等时也要再+1，查找从i开始长度为2^k和从r-2^k+1长度为2^k；只不过可以直接求取（ k = (int)( log((double)(r-l+1)) / log(2.0) );）
